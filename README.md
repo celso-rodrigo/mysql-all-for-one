@@ -9,7 +9,7 @@
   
 <h2>O quê foi avaliado</h2>
 <ul>
-  <li>Se as queries desenvolvidas retornam exatamente a quantidade de colunas e registros esperados, dentro do que foi pedido.</li>
+  <li>Se as queries desenvolvidas retornam exatamente a quantidade de colunas e registros esperados, dentro do que foi pedido;</li>
   <li>Organização do código.</li>
 </ul>
 
