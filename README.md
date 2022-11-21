@@ -4,7 +4,7 @@
 <br/>
 
 <h2>O quê foi desenvolvido</h2>
-<p>Foram concluídos desafios do uso de SELECT, filtragem e manipulação de dados em um banco de dados MySQL.</p>
+<p>Foram concluídos desafios que simulavam o uso de SELECT, filtragem e manipulação de dados em um banco de dados MySQL.</p>
 <br/>
   
 <h2>O quê foi avaliado</h2>
